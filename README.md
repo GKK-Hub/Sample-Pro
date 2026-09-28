@@ -1,4 +1,4 @@
-# Sample Project
+# Sample Project: Edit (GitHub)
 
 This is just for practicing git.
 
