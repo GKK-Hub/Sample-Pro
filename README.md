@@ -2,5 +2,6 @@
 # Sample Project: Edit (GitHub)
 
 This is just for practicing git.
+Writing on locally.
 
 Stash workings.
