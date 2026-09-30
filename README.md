@@ -4,4 +4,4 @@
 This is just for practicing git.
 Writing on locally.
 
-Stash workings. Edited on locally.
+Stash workings. Edited on GitHub. Edited on locally.
