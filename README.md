@@ -7,3 +7,4 @@ Writing on locally.
 Stash workings. Edited on GitHub. Edited on locally.
 
 Added a new line on GitHub.
+Stash workings. Edited on GitHub. Edited on locally. Sample.
